@@ -1,4 +1,5 @@
 ## Ubuntu Deployment script
+This is forked from aeugenegray/cpuminer-multi-autoscript with my own tweaks applied. 
 
 ### Ubuntu Code
 
