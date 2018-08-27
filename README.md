@@ -5,9 +5,9 @@ sudo apt-get -y update
 
 sudo apt-get install -y epel-release tmux git expect
 
-git clone https://github.com/budm/cpuminer-multi-autoscript.git
+git clone https://github.com/budm/cpuminer-deploy.git
 
-cd cpuminer-multi-autoscript
+cd cpuminer-deploy
 
 chmod +x SETUP.sh
 
