@@ -1,6 +1,7 @@
 ## Ubuntu Deployment script
 
 ### Ubuntu Code
+
 sudo apt-get -y update
 
 sudo apt-get install -y epel-release tmux git expect
@@ -10,8 +11,6 @@ git clone https://github.com/budm/cpuminer-deploy.git
 cd cpuminer-deploy
 
 chmod +x SETUP.sh
-
-chmod +x expect-2.sh
 
 ./SETUP.sh
 
